@@ -1,4 +1,4 @@
-# Smart-Home-Automation-using-the-Raspberry-Pi
+# Smart Home Automation Using The Raspberry Pi
 # Student Name: Nikola Angelkovski
 # Student ID: 20095550
 # Introduction
