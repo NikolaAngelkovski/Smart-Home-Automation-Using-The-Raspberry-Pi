@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## Welcome to my project website!
 
-You can use the [editor on GitHub](https://github.com/NikolaAngelkovski/Smart-Home-Automation-Using-The-Raspberry-Pi/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Here you will find all the details for my IoT project- "Smart Home Automation Using The Raspberry Pi". Each part of the project is divided into sections below, so you can have easy access to everything. If you like my project, feel free to leave a comment or a suggestion.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Tools, Technologies and Equipment
+For this project I will be using the following tools, technologies and equipment:
 
-### Markdown
+- A Raspberry Pi 4 model B (2GB RAM)
+- A Sense HAT add-on board for the Raspberry Pi, which can be used for getting various data such as temperature, humidity, barometric pressure etc. and also getting audiovisual feedback through the built-in 8x8 RGB LED matrix and connected speakers.
+- Packet Tracer by Cisco, a cross-platform visual simulation tool that allows users to create network topologies and imitate modern computer networks. This will be used for simulating IoT devices in a home network, and will be controlled by an external app through the Raspberry Pi
+- Amazon AWS IoT, an Amazon Web Services platform that collects and analyzes data from internet-connected devices and sensors and connects that data to AWS cloud applications. This will be used to develop an external application which will be used to send commands to the IoT devices through the Raspberry Pi
+- An Android smartphone to showcase the application and its use in the real world
+- A laptop/PC to run the simulations for the project and develop the application
+- PyCharm Community Edition, IntelliJ IDEA Community Edition, Visual Studio Code - to be specified
+- PuTTY for creating a SSH connection to the Raspberry Pi
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NikolaAngelkovski/Smart-Home-Automation-Using-The-Raspberry-Pi/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# Note
+Please note that the above text is subject to change as I progress further into development and more features are added. All the diagrams, pictures, code and websites will be added in subsequent commits.
