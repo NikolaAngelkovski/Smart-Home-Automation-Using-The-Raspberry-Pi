@@ -11,7 +11,12 @@ For this project I will be using the following tools, technologies and equipment
 - Amazon AWS IoT, an Amazon Web Services platform that collects and analyzes data from internet-connected devices and sensors and connects that data to AWS cloud applications. This will be used to develop an external application which will be used to send commands to the IoT devices through the Raspberry Pi
 - An Android smartphone to showcase the application and its use in the real world
 - A laptop/PC to run the simulations for the project and develop the application
-- PyCharm Community Edition, IntelliJ IDEA Community Edition, Visual Studio Code - to be specified
-- PuTTY for creating a SSH connection to the Raspberry Pi
+- Visual Studio Code- used for connecting to the RPi via SSH and writing the necessary code 
+# Visual representation of the project
+The two pictures below explain how the project should work once everything is set up. The first picture is a roadmap for the development of the project, and the second picture is a diagram which shows visually how the components are going to be connected in the end, with detailed explanation of how the information flows through the components.
+![alt text](https://github.com/NikolaAngelkovski/Smart-Home-Automation-Using-The-Raspberry-Pi/blob/main/Development%20roadmap.png) 
+<hr style="border:2px solid gray"> </hr>
+
+![alt text](https://github.com/NikolaAngelkovski/Smart-Home-Automation-Using-The-Raspberry-Pi/blob/main/Project%20overview%20diagram.png)
 # Note
 Please note that the above text is subject to change as I progress further into development and more features are added. All the diagrams, pictures, code and websites will be added in subsequent commits.
