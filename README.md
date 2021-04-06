@@ -12,8 +12,8 @@ For this project I will be using the following tools, technologies and equipment
 - ThingSpeak- ThingSpeak is an open-source Internet of Things application and API to store and retrieve data from things using the HTTP and MQTT protocol over the Internet or via a Local Area Network. ThingSpeak will be used to create a channel which will be used as a monitor for the temperature, humidity and pressure of the simulation. The data will also be used to automate the heating/cooling elements, and trigger notifications via IFTTT
 - IFTTT- A cloud-based service that allows a user to program a response to events in the world of various kinds. IFTTT will analyze the data from the ThingSpeak channel and if a certain trigger event happens, for ex. the room temperature is above/below the given threshold, then IFTTT will send a mail/text alert message to the user
 - An Android smartphone to showcase the Blynk application and its use in the real world
-- A laptop/PC to run the simulations for the project and write the necessary code for the devices in Packet Tracer
-- Visual Studio Code- used for connecting to the RPi via SSH and writing the necessary code 
+- A laptop/PC to run the simulations for the project and write the necessary Python code for the devices in Packet Tracer
+- Visual Studio Code- used for connecting to the RPi via SSH and writing the necessary Python code
 # Visual representation of the project
 The two pictures below explain how the project should work once everything is set up. The first picture is a roadmap for the development of the project, and the second picture is a diagram which shows visually how the components are going to be connected in the end, with detailed explanation of how the information flows through the components.
 ![alt text](https://github.com/NikolaAngelkovski/Smart-Home-Automation-Using-The-Raspberry-Pi/blob/main/Development%20roadmap.png) 
