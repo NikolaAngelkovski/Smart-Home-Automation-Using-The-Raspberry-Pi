@@ -1,16 +1,18 @@
 # Smart Home Automation Using The Raspberry Pi
-# Student Name: Nikola Angelkovski
-# Student ID: 20095550
+**Student Name: Nikola Angelkovski**\
+**Student ID: 20095550**
 # Introduction
 This is a small project made by me for the "IoT Standards & Protocols" course from the Waterford Institute of Technology in Waterford, Ireland. The goal of the project is to make the Raspberry Pi the central hub for controlling IoT devices in the home, such as smart doors, smart fridges etc. The Raspberry Pi can be accessed from a smartphone/tablet/laptop/PC. See the detailed information about the project below.
 # Tools, Technologies and Equipment
 For this project I will be using the following tools, technologies and equipment:
 - A Raspberry Pi 4 model B (2GB RAM)
-- A Sense HAT add-on board for the Raspberry Pi, which can be used for getting various data such as temperature, humidity, barometric pressure etc. and also getting audiovisual feedback through the built-in 8x8 RGB LED matrix and connected speakers.
+- A Sense HAT add-on board for the Raspberry Pi, which can be used for getting various data such as temperature, humidity, barometric pressure etc. and also getting audiovisual feedback through the built-in 8x8 RGB LED matrix and connected speakers
 - Packet Tracer by Cisco, a cross-platform visual simulation tool that allows users to create network topologies and imitate modern computer networks. This will be used for simulating IoT devices in a home network, and will be controlled by an external app through the Raspberry Pi
-- Amazon AWS IoT, an Amazon Web Services platform that collects and analyzes data from internet-connected devices and sensors and connects that data to AWS cloud applications. This will be used to develop an external application which will be used to send commands to the IoT devices through the Raspberry Pi
-- An Android smartphone to showcase the application and its use in the real world
-- A laptop/PC to run the simulations for the project and develop the application
+- Blynk- A smartphone application that is going to be used for controlling the devices in the Packet Tracer simulation
+- ThingSpeak- ThingSpeak is an open-source Internet of Things application and API to store and retrieve data from things using the HTTP and MQTT protocol over the Internet or via a Local Area Network. ThingSpeak will be used to create a channel which will be used as a monitor for the temperature, humidity and pressure of the simulation. The data will also be used to automate the heating/cooling elements, and trigger notifications via IFTTT
+- IFTTT- A cloud-based service that allows a user to program a response to events in the world of various kinds. IFTTT will analyze the data from the ThingSpeak channel and if a certain trigger event happens, for ex. the room temperature is above/below the given threshold, then IFTTT will send a mail/text alert message to the user
+- An Android smartphone to showcase the Blynk application and its use in the real world
+- A laptop/PC to run the simulations for the project and write the necessary code for the devices in Packet Tracer
 - Visual Studio Code- used for connecting to the RPi via SSH and writing the necessary code 
 # Visual representation of the project
 The two pictures below explain how the project should work once everything is set up. The first picture is a roadmap for the development of the project, and the second picture is a diagram which shows visually how the components are going to be connected in the end, with detailed explanation of how the information flows through the components.
