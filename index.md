@@ -14,7 +14,6 @@ For this project I was using the following tools, technologies and equipment:
 
 # Visual Representation of the Project
 The diagram below shows how the whole project works when everything is set up, as well as how the data flows through the elements. Another diagram which contains the development roadmap can be found on my GitHub page about this project.
-<hr style="border:2px solid gray"> </hr>
 
 ![alt text](https://github.com/NikolaAngelkovski/Smart-Home-Automation-Using-The-Raspberry-Pi/blob/gh-pages/Project%20overview%20diagram.png)
 
