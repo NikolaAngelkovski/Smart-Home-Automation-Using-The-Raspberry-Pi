@@ -15,7 +15,7 @@ For this project I was using the following tools, technologies and equipment:
 # Visual Representation of the Project
 The diagram below shows how the whole project works when everything is set up, as well as how the data flows through the elements. Another diagram which contains the development roadmap can be found on my GitHub page about this project.
 
-![alt text](https://github.com/NikolaAngelkovski/Smart-Home-Automation-Using-The-Raspberry-Pi/blob/main/Project%20overview%20diagram.png)
+![alt text](https://github.com/NikolaAngelkovski/Smart-Home-Automation-Using-The-Raspberry-Pi/blob/gh-pages/Project%20overview%20diagram.png)
 
 # Project Tutorials and Files
 I have created a small [playlist](https://www.youtube.com/playlist?list=PLknVyGBYudWuT1P1lZ_0AwqsM6FiRtyYy) on YouTube which has short tutorials about the project. I also added a folder which includes all the files for the project, as well as separate codes for each individual element, in case you want to implement some other stuff by yourself, or the given "Smart Home Project" does not work properly.
